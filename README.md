@@ -9,7 +9,7 @@ Exercício de iniciante feito de forma simples.
 		System.out.println(" --------------------------------------------------");
 		System.out.println(" -------------- Extrato Bancário-------------------");
 		System.out.println(" --------------------------------------------------");
-		System.out.println(" ----------------Banco CI&T------------------------");
+		System.out.println(" ----------------Banco ----------------------------");
 		System.out.println(" --------------------------------------------------");
 		System.out.println(" ------- Data de hoje: " + dataFormatada +"--------");
 		System.out.println(" --------------------------------------------------");
